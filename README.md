@@ -8,9 +8,9 @@ rudimentary intelligence on brute force attacks.
 
 ### Linux
 
-Make sure libssh and libjson-c are installed
+Make sure clang, libssh and libjson-c are installed
 
-    $ apt install libssh-dev libjson-c-dev
+    $ apt install clang libssh-dev libjson-c-dev
 
 ### OSX
 
